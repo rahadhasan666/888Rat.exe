@@ -20,10 +20,7 @@
 
 ### :gear: Installation
 
-https://mega.nz/file/LupWEByY#-wvYITC8D0dl5orKA1EzV9hU0-eKYNPRm67uKqT2vEg
-```bash
-Just copy the link and past on your browser for download
-```
+
 Just copy the link and past on your browser for download
 ```bash
 https://mega.nz/file/LupWEByY#-wvYITC8D0dl5orKA1EzV9hU0-eKYNPRm67uKqT2vEg
